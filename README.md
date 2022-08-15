@@ -1,6 +1,6 @@
 # WebRTC Signaling Demo
 
-WebRTC is one of the popular concepts in RTC technologies and there are various tutorials. Besides, there are plenty of libraries (especially for NPM) that use WebRTC to establish communication for many uses. Many of the tutorials use these libraries to show how to build clone applications of Zoom, Discord, etc. However, they fail to show how WebRTC works at its core.
+WebRTC is one of the popular concepts in RTC technologies and there are various tutorials for it. Besides, there are plenty of libraries (especially for NPM) that use WebRTC to establish communication for many uses. Many of the tutorials use these libraries to show how to build clone applications of Zoom, Discord, etc. However, they fail to show how WebRTC works at its core.
 
 We will be building a simple demo that demonstrates signaling between two browsers. It will only require a browser and some Javascript code. Since the goal is to grasp the signaling concept, it will not be a useful application but rather a demo that demonstrates each of the components that are required to establish a connection in a simple way.
 
